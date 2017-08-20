@@ -9,6 +9,8 @@ public class Main {
 		Letra letra1 = new Letra("IN/lote1.txt");
 		
 		letra1.Mostrar();
+		
+		letra1.Resolver("Hola");
 
 	}
 
